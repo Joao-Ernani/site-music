@@ -15,13 +15,13 @@ const songs = [
   {
     id: 2,
     songName: `BK' - Planos part. Luccas Carlos<br><div class="subtitle">BK</div>`,
-    poster: "./img2/2.jpg"
+    poster: "./img2/1.jpg"
   },
 
   {
     id: 3,
     songName: `E Se Eu Falasse O Que Sinto?<br><div class="subtitle">Aka Rasta</div>`,
-    poster: "./img2/3.jpg"
+    poster: "./img2/1.jpg"
   },
 
   {
